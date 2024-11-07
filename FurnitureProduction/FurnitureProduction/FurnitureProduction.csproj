@@ -158,7 +158,6 @@
   <ItemGroup>
     <Resource Include="Resources\furniture.jpg" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="Data\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>

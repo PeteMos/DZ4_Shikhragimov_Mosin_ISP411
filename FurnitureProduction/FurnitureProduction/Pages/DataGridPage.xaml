@@ -38,7 +38,7 @@
                   Height="300" 
                   Background="White" 
                   BorderBrush="Black" 
-                  BorderThickness="1" 
+                  BorderThickness="2" 
                   FontSize="14">
         </DataGrid>
     </Grid>

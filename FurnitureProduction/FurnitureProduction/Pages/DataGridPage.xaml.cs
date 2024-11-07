@@ -12,7 +12,8 @@ namespace FurnitureProduction.Pages
         public DataGridPage()
         {
             InitializeComponent();
-            MessageBox.Show($"Не задавайте нам вопросы, Мы знаем, просто переживаем, когда Вам отвечаем!", "Добро пожаловать на нашу страницу!", 
+            MessageBox.Show($"Не задавайте нам вопросы, Мы знаем, просто переживаем, когда Вам отвечаем!", 
+                "Добро пожаловать на нашу страницу!", 
                 MessageBoxButton.OK, MessageBoxImage.Information);
         }
         private void QueryComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)

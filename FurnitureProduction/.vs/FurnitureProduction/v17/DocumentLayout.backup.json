@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\furnitureproduction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\pages\\datagridpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\pages\\datagridpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\pages\\datagridpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\pages\\datagridpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|c:\\users\\students\\desktop\\furnitureproduction\\furnitureproduction\\furnitureproduction\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\furnitureproduction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A5F261-9327-45C2-9F96-E903D996997E}|FurnitureProduction\\FurnitureProduction.csproj|solutionrelative:furnitureproduction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "FurnitureProduction\\Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "FurnitureProduction\\Data\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:12:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "FurnitureProduction\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "FurnitureProduction\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-29T11:12:26.058Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\App.xaml",
+              "RelativeDocumentMoniker": "FurnitureProduction\\App.xaml",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\App.xaml",
+              "RelativeToolTip": "FurnitureProduction\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T11:11:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\App.config",
+              "RelativeDocumentMoniker": "FurnitureProduction\\App.config",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\App.config",
+              "RelativeToolTip": "FurnitureProduction\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T10:09:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataGridPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Pages\\DataGridPage.xaml.cs",
+              "RelativeDocumentMoniker": "FurnitureProduction\\Pages\\DataGridPage.xaml.cs",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Pages\\DataGridPage.xaml.cs",
+              "RelativeToolTip": "FurnitureProduction\\Pages\\DataGridPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:03:24.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataGridPage.xaml",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Pages\\DataGridPage.xaml",
+              "RelativeDocumentMoniker": "FurnitureProduction\\Pages\\DataGridPage.xaml",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\Pages\\DataGridPage.xaml",
+              "RelativeToolTip": "FurnitureProduction\\Pages\\DataGridPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T10:03:23.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FurnitureProduction\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\MainWindow.xaml",
+              "RelativeToolTip": "FurnitureProduction\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T16:53:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FurnitureProduction\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\students\\Desktop\\FurnitureProduction\\FurnitureProduction\\FurnitureProduction\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FurnitureProduction\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:53:45.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
